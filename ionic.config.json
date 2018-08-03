@@ -1,0 +1,7 @@
+{
+  "name": "fininci",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
